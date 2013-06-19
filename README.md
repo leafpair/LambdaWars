@@ -1,4 +1,4 @@
-LambdaWars
+LambdaWars II
 ==========
 
 RoboWars in Haskell for the London Haskell User group.
